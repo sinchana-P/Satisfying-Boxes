@@ -10,16 +10,7 @@ border: 1px solid rgba(153, 151, 151, 0.5);
 
 
 }
-/* 
-/* From https://css.glass 
-background: rgba(153, 151, 151, 0.1);
-border-radius: 16px;
-box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-backdrop-filter: blur(5px);
--webkit-backdrop-filter: blur(5px);
-border: 1px solid rgba(153, 151, 151, 0.5);
 
-*/
 
 html{
     width: 1342px;
@@ -27,6 +18,8 @@ html{
     color: transparent;
     background-color: transparent;
     font-style: normal;
+    margin-right: auto;
+    margin-left: auto;
 } 
 
 body{
@@ -35,14 +28,14 @@ body{
     color: transparent;
     background-color: transparent;
     font-style: normal;
+ 
+
 }
 
 .container {
     width: 1280px;
     background-color: rgba(164, 148, 177, 0.445);
     padding: 0px 30px 10px;
-    margin-right: auto;
-    margin-left: auto;
 /* From https://css.glass */
 background: rgba(33, 32, 32, 0.1);
 border-radius: 16px;
