@@ -45,11 +45,11 @@
               },   
               {
                   id: 4,
-                  on: true
+                  on: false
               },   
               {
                   id: 5,
-                  on: false
+                  on: true
               },   
               {
                   id: 6,
@@ -65,7 +65,7 @@
               },   
               {
                   id: 9,
-                  on: false
+                  on: true
               } 
            ]
         
